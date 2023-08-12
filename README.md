@@ -22,7 +22,7 @@ Remove character statements.  They benefit the wealthy, white, well connected an
 
 More detailed policy from the secret barrister.
 
-#AI
+# AI
 This party desires to make the UK a leader in the development of responsible AI. We also see an opportunity to become a leader in the regulation of technology and will leverage our principles to achieve that.
 
 One challenge in writing AI policy is how to define it in a way that can be measured. We propose the use of neural networks to constitute AI. Their size also provides a proxy for their power and the environmental impact.
@@ -37,7 +37,7 @@ Any business publishing content, that is images, video, music or writing must de
 
 AI may not be used to optimise downstream the oil and gas industry or any other fossil fuel industry. It may not be used by industries that are deemed to have a negative impact on health, e.g. tobacco, gambling.
 
-#Environment
+# Environment
 
 Central to addressing climate change is challenging investment into sustainable industry, rather than looking to replicate historic returns from fossil fuels.
 
@@ -86,7 +86,6 @@ Ambition to centralise certain IT and operational roles across local government 
 Charities must declare all funding over £1000
 Charities may not act as PR firms or promote political agendas
 Charities must be single agenda
-
 
 # Political funding
 All think tanks and lobbyists must make their funding public. Take more policies from taxpayers alliance settlement example
